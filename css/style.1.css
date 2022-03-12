@@ -905,8 +905,8 @@ nav_f2 {
     height: auto;
     padding: 20px 15px;
     background-color: rgba(0, 0, 0, 0.8);
-    -webkit-transition: 1.1s all;
-    transition: 1.1s all;
+    -webkit-transition: 0.5s all;
+    transition: 0.5s all;
   }
   .menu_active {
     right: 0;
@@ -934,12 +934,12 @@ nav_f2 {
     width: 100%;
     background-color: #fff;
     margin: 5px;
-    -webkit-transition: 1.1s all;
-    transition: 1.1s all;
+    -webkit-transition: 0.5s all;
+    transition: 0.5s all;
   }
   .hamburg_active span {
-    -webkit-transition: 1.1s all;
-    transition: 1.1s all;
+    -webkit-transition: 0.5s all;
+    transition: 0.5s all;
   }
   .hamburg_active span:nth-child(1) {
     -webkit-transform: rotate(-45deg) translate(-3px, 4px);
